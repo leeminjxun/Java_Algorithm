@@ -7,10 +7,9 @@ package Data_Structure.Array;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class Beak10871 {
+public class Baek10871 {
     public static void main(String[] args) throws IOException {
 
         // Scanner 로 입력 받는 방식

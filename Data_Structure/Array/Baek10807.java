@@ -5,7 +5,7 @@ package Data_Structure.Array;
 
 import java.util.Scanner;
 
-public class Beak10807 {
+public class Baek10807 {
 
     public static void main(String[] args) {
 
