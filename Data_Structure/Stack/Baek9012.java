@@ -1,6 +1,6 @@
 package Data_Structure.Stack;
 
-// 백준 [10773] 문제 유형 = Stack
+// 백준 [9012] 문제 유형 = Stack
 
 // 문제 : 괄호
 
