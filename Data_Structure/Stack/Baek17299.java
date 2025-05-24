@@ -23,18 +23,18 @@ public class Baek17299 {
 
         int N = Integer.parseInt(br.readLine());
         int[] seg = new int[N];
-        int[] F = new int[N];
+        int[] F = new int[1_000_001]; // 배열 F를 1,000,001개의 공간으로 선언 --> 런타임 에러 방지 (ArrayIndexOutofBounds)
 
         StringTokenizer st = new StringTokenizer(br.readLine());
 
         for (int i = 0; i < N; i++) {
             int num = Integer.parseInt(st.nextToken());
             seg[i] = num;
-            F[num - 1]++;
+            F[num]++;
         }
 
         for (int i = 0; i < N; i++) {
-            while (!stack.isEmpty() && F[seg[stack.peek()] - 1] < F[seg[i]] - 1) {
+            while (!stack.isEmpty() && F[seg[stack.peek()]] < F[seg[i]]) {
                 seg[stack.pop()] = seg[i];
             }
             stack.push(i);
