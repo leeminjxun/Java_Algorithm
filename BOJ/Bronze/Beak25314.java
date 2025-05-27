@@ -1,4 +1,4 @@
-package BOJ;
+package BOJ.Bronze;
 
 // 백준 [25314] 문제 유형 = 반복문
 

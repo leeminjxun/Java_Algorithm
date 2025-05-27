@@ -1,4 +1,4 @@
-package Data_Structure.Stack;
+package BOJ.Gold;
 
 // 백준 [17299] 문제 유형 = Stack
 
