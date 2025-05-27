@@ -1,5 +1,20 @@
 package BOJ.Platinum;
 
+// 백준 [1725] 문제 유형 = Stack
+
+// 문제 : 히스토그램
+
+// 히스토그램이란 막대그래프를 의미한다.
+
+// 히스토그램 내부에 가장 넓이가 큰 직사각형의 넓이를 구하는 프로그램을 작성하라.
+
+// 입력 :
+// 첫 행에는 N 이 주어진다. N 은 히스토그램의 가로 칸 수이다.
+// N 행에 걸쳐 각 칸의 높이가 왼쪽에서부터 차례대로 주어진다.
+
+// 출력 :
+// 첫째 줄에 가장 큰 직사각형의 넓이를 출력한다. 이 값은 20억을 넘지 않는다.
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
