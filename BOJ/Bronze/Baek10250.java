@@ -1,5 +1,8 @@
 package BOJ.Bronze;
 
+// 백준 [10250] 문제 유형 = 수학
+// 문제 : ACM 호텔
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
