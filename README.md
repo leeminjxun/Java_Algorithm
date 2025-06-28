@@ -16,3 +16,11 @@ Repository For Algorithm Study
 + 구현
 + DP(Dynamic Programming)
 + Union-Find
+
+----
+
++ ✅배열
++ ✅연결리스트
++ ✅stack, queue, deque
++ 🔎BFS, DFS
+
