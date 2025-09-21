@@ -3,7 +3,7 @@ package Stu;
 import java.util.*;
 import java.io.*;
 
-public class Beak10809 {
+public class Baek10809 {
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
