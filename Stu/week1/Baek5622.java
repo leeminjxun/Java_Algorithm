@@ -1,6 +1,5 @@
-package Stu;
+package Stu.week1;
 
-import java.util.*;
 import java.io.*;
 
 public class Baek5622 {

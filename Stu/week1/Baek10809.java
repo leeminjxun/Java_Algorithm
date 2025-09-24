@@ -1,4 +1,4 @@
-package Stu;
+package Stu.week1;
 
 import java.util.*;
 import java.io.*;
