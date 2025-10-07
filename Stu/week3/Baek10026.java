@@ -1,12 +1,10 @@
 package Stu.week3;
 
-import Data_Structure.Graph.BFS;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Beak10026 {
+public class Baek10026 {
     static int[] dx = {-1, 1, 0, 0};
     static int[] dy = {0, 0, -1, 1};
 
@@ -23,9 +21,6 @@ public class Beak10026 {
         N = Integer.parseInt(br.readLine());
         arr_normal = new char[N][N]; // 적록색약이 아닌 배열
         arr_blindness = new char[N][N]; // 적록색약인 배열
-
-
-        String[] v = {"normal", "blindness"};
 
         for (int i = 0; i < N; i++) {
             String s = br.readLine();
