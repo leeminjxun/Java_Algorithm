@@ -1,6 +1,5 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-
-# out 폴더 제외
 out/
+.idea
