@@ -25,7 +25,6 @@ public class Swea23791 {
                 B[i] = Integer.parseInt(st.nextToken());
             }
 
-
             boolean[] picked = new boolean[N + 1];
             char[] res = new char[N + 1];
 
