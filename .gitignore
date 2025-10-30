@@ -1,4 +1,5 @@
-/shelf/
-/workspace.xml
+# IntelliJ IDEA settings
+.idea/
+
+# IntelliJ build output folder
 out/
-.idea
