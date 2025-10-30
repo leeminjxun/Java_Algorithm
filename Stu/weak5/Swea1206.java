@@ -1,3 +1,5 @@
+package Stu.weak5;
+
 import java.util.*;
 import java.io.*;
 
