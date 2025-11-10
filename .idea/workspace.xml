@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="731d1777-c9d1-4aae-8192-267dff8ffdb0" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/Stu/weak5/Swea1954.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/Stu/weak5/Swea1954.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +31,12 @@
     &quot;assignee&quot;: &quot;leeminjxun&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/leeminjxun/Java_Algorithm.git&quot;,
-    &quot;accountId&quot;: &quot;da91c507-fedc-4f2b-a8cd-28ef8d30f79e&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/leeminjxun/Java_Algorithm.git",
+    "accountId": "bb1ad1cd-111c-46fd-8a24-2e09dc372bc4"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -43,41 +45,32 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
-    &quot;애플리케이션.Swea.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Swea1206.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Swea1208.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Swea1926.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Swea1954.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Swea2001.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Swea21425.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Swea22979.executor&quot;: &quot;Debug&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Solution.executor": "Run",
+    "Application.Swea1206.executor": "Run",
+    "Application.Swea7272.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "애플리케이션.Swea.executor": "Run",
+    "애플리케이션.Swea1206.executor": "Run",
+    "애플리케이션.Swea1208.executor": "Run",
+    "애플리케이션.Swea1926.executor": "Run",
+    "애플리케이션.Swea1954.executor": "Run",
+    "애플리케이션.Swea2001.executor": "Run",
+    "애플리케이션.Swea21425.executor": "Run",
+    "애플리케이션.Swea22979.executor": "Debug"
   }
-}</component>
-  <component name="RunManager" selected="애플리케이션.Swea5215">
-    <configuration name="Swea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stu.waek4.Swea" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stu.waek4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Swea1208" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stu.weak5.Swea1208" />
+}]]></component>
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stu.weak5.Solution" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -89,14 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swea1926" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="valhalla-ea-23" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Stu.waek4.Swea1926" />
+    <configuration name="Swea1206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stu.weak5.Swea1206" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stu.waek4.*" />
+          <option name="PATTERN" value="Stu.weak5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swea1954" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stu.weak5.Swea1954" />
+    <configuration name="Swea1208" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stu.weak5.Swea1208" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -159,6 +150,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Swea7272" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stu.weak5.Swea7272" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stu.weak5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="알고리즘" />
       <method v="2">
@@ -173,21 +177,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="애플리케이션.Swea1208" />
-      <item itemvalue="애플리케이션.Swea22979" />
-      <item itemvalue="애플리케이션.Swea5215" />
-      <item itemvalue="애플리케이션.Swea1954" />
-      <item itemvalue="애플리케이션.Swea1926" />
-      <item itemvalue="애플리케이션.Swea" />
-      <item itemvalue="애플리케이션.Swea2001" />
+      <item itemvalue="Application.Swea1208" />
+      <item itemvalue="Application.Swea22979" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Swea7272" />
+      <item itemvalue="Application.Swea1206" />
+      <item itemvalue="Application.Swea2001" />
+      <item itemvalue="Application.Swea5215" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Swea5215" />
-        <item itemvalue="애플리케이션.Swea" />
-        <item itemvalue="애플리케이션.Swea1954" />
-        <item itemvalue="애플리케이션.Swea1926" />
-        <item itemvalue="애플리케이션.Swea2001" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Swea7272" />
+        <item itemvalue="Application.Swea1206" />
       </list>
     </recent_temporary>
   </component>
