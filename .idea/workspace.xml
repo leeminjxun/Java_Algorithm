@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="731d1777-c9d1-4aae-8192-267dff8ffdb0" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/Stu/weak5/Swea1954.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/Stu/weak5/Swea1954.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,7 @@
     "애플리케이션.Swea22979.executor": "Debug"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Swea2805">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stu.weak5.Solution" />
       <module name="java" />
@@ -108,12 +105,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swea2001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-23" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Stu.waek4.Swea2001" />
+    <configuration name="Swea22979" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stu.waek4.Swea22979" />
       <module name="java" />
-      <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Stu.waek4.*" />
@@ -124,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swea22979" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stu.waek4.Swea22979" />
+    <configuration name="Swea2805" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stu.weak5.Swea2805" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stu.waek4.*" />
+          <option name="PATTERN" value="Stu.weak5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,13 +174,14 @@
       <item itemvalue="Application.Swea1208" />
       <item itemvalue="Application.Swea22979" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Swea2805" />
       <item itemvalue="Application.Swea7272" />
       <item itemvalue="Application.Swea1206" />
-      <item itemvalue="Application.Swea2001" />
       <item itemvalue="Application.Swea5215" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Swea2805" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Swea7272" />
         <item itemvalue="Application.Swea1206" />
