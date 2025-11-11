@@ -45,6 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Baek1592.executor": "Run",
+    "Application.Baek2798.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.Swea1206.executor": "Run",
     "Application.Swea1234.executor": "Run",
@@ -68,9 +69,22 @@
     "애플리케이션.Swea22979.executor": "Debug"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baek1592">
+  <component name="RunManager" selected="Application.Baek2798">
     <configuration name="Baek1592" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ.Bronze.Baek1592" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOJ.Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baek2798" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.Bronze.Baek2798" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -147,19 +161,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swea7272" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stu.weak5.Swea7272" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stu.weak5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="알고리즘" />
       <method v="2">
@@ -177,18 +178,18 @@
       <item itemvalue="Application.Swea1208" />
       <item itemvalue="Application.Swea22979" />
       <item itemvalue="Application.Baek1592" />
+      <item itemvalue="Application.Baek2798" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Swea1234" />
       <item itemvalue="Application.Swea2805" />
-      <item itemvalue="Application.Swea7272" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baek2798" />
         <item itemvalue="Application.Baek1592" />
         <item itemvalue="Application.Swea1234" />
         <item itemvalue="Application.Swea2805" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Swea7272" />
       </list>
     </recent_temporary>
   </component>
