@@ -46,6 +46,8 @@
   "keyToString": {
     "Application.Solution.executor": "Run",
     "Application.Swea1206.executor": "Run",
+    "Application.Swea1234.executor": "Run",
+    "Application.Swea2805.executor": "Run",
     "Application.Swea7272.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -65,7 +67,7 @@
     "애플리케이션.Swea22979.executor": "Debug"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Swea2805">
+  <component name="RunManager" selected="Application.Swea1234">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stu.weak5.Solution" />
       <module name="java" />
@@ -105,6 +107,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Swea1234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stu.weak5.Swea1234" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stu.weak5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Swea22979" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stu.waek4.Swea22979" />
       <module name="java" />
@@ -120,19 +135,6 @@
     </configuration>
     <configuration name="Swea2805" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stu.weak5.Swea2805" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stu.weak5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Swea5215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stu.weak5.Swea5215" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -174,13 +176,14 @@
       <item itemvalue="Application.Swea1208" />
       <item itemvalue="Application.Swea22979" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Swea1234" />
       <item itemvalue="Application.Swea2805" />
       <item itemvalue="Application.Swea7272" />
       <item itemvalue="Application.Swea1206" />
-      <item itemvalue="Application.Swea5215" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Swea1234" />
         <item itemvalue="Application.Swea2805" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Swea7272" />
