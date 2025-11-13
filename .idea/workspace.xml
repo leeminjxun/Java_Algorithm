@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="731d1777-c9d1-4aae-8192-267dff8ffdb0" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/BOJ/Silver/Baek1244.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/BOJ/Silver/Baek1244.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     "Application.Baek1244.executor": "Run",
     "Application.Baek1592.executor": "Run",
     "Application.Baek17413.executor": "Run",
+    "Application.Baek2304.executor": "Run",
     "Application.Baek2798.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.Swea1206.executor": "Run",
@@ -74,7 +75,7 @@
     "애플리케이션.Swea22979.executor": "Debug"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baek1244">
+  <component name="RunManager" selected="Application.Baek2304">
     <configuration name="Baek11399" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ.Bronze.Baek11399" />
       <module name="java" />
@@ -114,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baek2798" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.Bronze.Baek2798" />
+    <configuration name="Baek2304" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.Silver.Baek2304" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -183,18 +184,18 @@
       <item itemvalue="Application.Swea1208" />
       <item itemvalue="Application.Swea22979" />
       <item itemvalue="Application.Baek1244" />
+      <item itemvalue="Application.Baek2304" />
       <item itemvalue="Application.Swea4615" />
       <item itemvalue="Application.Baek17413" />
       <item itemvalue="Application.Baek11399" />
-      <item itemvalue="Application.Baek2798" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baek2304" />
         <item itemvalue="Application.Baek1244" />
         <item itemvalue="Application.Swea4615" />
         <item itemvalue="Application.Baek17413" />
         <item itemvalue="Application.Baek11399" />
-        <item itemvalue="Application.Baek2798" />
       </list>
     </recent_temporary>
   </component>
