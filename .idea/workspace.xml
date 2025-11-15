@@ -51,6 +51,7 @@
     "Application.Baek17413.executor": "Run",
     "Application.Baek2304.executor": "Run",
     "Application.Baek2309.executor": "Run",
+    "Application.Baek2477.executor": "Run",
     "Application.Baek2798.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.Swea1206.executor": "Run",
@@ -76,22 +77,9 @@
     "애플리케이션.Swea22979.executor": "Debug"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baek2309">
+  <component name="RunManager" selected="Application.Baek2477">
     <configuration name="Baek1244" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ.Silver.Baek1244" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BOJ.Silver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Baek17413" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.Silver.Baek17413" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -122,6 +110,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BOJ.Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baek2477" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.Silver.Baek2477" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOJ.Silver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,19 +185,19 @@
     <list>
       <item itemvalue="Application.Swea1208" />
       <item itemvalue="Application.Swea22979" />
+      <item itemvalue="Application.Baek2477" />
       <item itemvalue="Application.Baek2309" />
       <item itemvalue="Application.Baek1244" />
       <item itemvalue="Application.Baek2304" />
       <item itemvalue="Application.Swea4615" />
-      <item itemvalue="Application.Baek17413" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baek2477" />
         <item itemvalue="Application.Baek2309" />
         <item itemvalue="Application.Baek2304" />
         <item itemvalue="Application.Baek1244" />
         <item itemvalue="Application.Swea4615" />
-        <item itemvalue="Application.Baek17413" />
       </list>
     </recent_temporary>
   </component>
