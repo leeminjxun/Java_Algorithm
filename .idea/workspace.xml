@@ -42,41 +42,41 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Baek11399.executor": "Run",
-    "Application.Baek1244.executor": "Run",
-    "Application.Baek1592.executor": "Run",
-    "Application.Baek17413.executor": "Run",
-    "Application.Baek2304.executor": "Run",
-    "Application.Baek2309.executor": "Run",
-    "Application.Baek2477.executor": "Run",
-    "Application.Baek2491.executor": "Run",
-    "Application.Baek2798.executor": "Run",
-    "Application.Solution.executor": "Run",
-    "Application.Swea1206.executor": "Run",
-    "Application.Swea1234.executor": "Run",
-    "Application.Swea2805.executor": "Run",
-    "Application.Swea4615.executor": "Run",
-    "Application.Swea7272.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
-    "애플리케이션.Swea.executor": "Run",
-    "애플리케이션.Swea1206.executor": "Run",
-    "애플리케이션.Swea1208.executor": "Run",
-    "애플리케이션.Swea1926.executor": "Run",
-    "애플리케이션.Swea1954.executor": "Run",
-    "애플리케이션.Swea2001.executor": "Run",
-    "애플리케이션.Swea21425.executor": "Run",
-    "애플리케이션.Swea22979.executor": "Debug"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Baek11399.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baek1244.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baek1592.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baek17413.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baek2304.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baek2309.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baek2477.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baek2491.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baek2798.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swea1206.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swea1234.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swea2805.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swea4615.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swea7272.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;애플리케이션.Swea.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Swea1206.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Swea1208.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Swea1926.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Swea1954.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Swea2001.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Swea21425.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Swea22979.executor&quot;: &quot;Debug&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Baek2491">
     <configuration name="Baek1244" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ.Silver.Baek1244" />

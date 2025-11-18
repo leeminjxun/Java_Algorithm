@@ -1,4 +1,4 @@
-package Data_Structure.Array.two_dimention;
+package BOJ.Silver;
 
 // 백준 [2563] 문제 유형 = 2차원 배열
 
