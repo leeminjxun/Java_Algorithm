@@ -52,6 +52,7 @@
     &quot;Application.Baek2309.executor&quot;: &quot;Run&quot;,
     &quot;Application.Baek2477.executor&quot;: &quot;Run&quot;,
     &quot;Application.Baek2491.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baek2564.executor&quot;: &quot;Run&quot;,
     &quot;Application.Baek2798.executor&quot;: &quot;Run&quot;,
     &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
     &quot;Application.Swea1206.executor&quot;: &quot;Run&quot;,
@@ -77,20 +78,7 @@
     &quot;애플리케이션.Swea22979.executor&quot;: &quot;Debug&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Baek2564">
-    <configuration name="Baek2304" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.Silver.Baek2304" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BOJ.Silver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Baek2578">
     <configuration name="Baek2309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ.Bronze.Baek2309" />
       <module name="java" />
@@ -132,6 +120,19 @@
     </configuration>
     <configuration name="Baek2564" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ.Silver.Baek2564" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOJ.Silver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baek2578" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.Silver.Baek2578" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -185,19 +186,19 @@
     <list>
       <item itemvalue="Application.Swea1208" />
       <item itemvalue="Application.Swea22979" />
+      <item itemvalue="Application.Baek2578" />
       <item itemvalue="Application.Baek2564" />
       <item itemvalue="Application.Baek2477" />
       <item itemvalue="Application.Baek2491" />
       <item itemvalue="Application.Baek2309" />
-      <item itemvalue="Application.Baek2304" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baek2578" />
         <item itemvalue="Application.Baek2564" />
         <item itemvalue="Application.Baek2491" />
         <item itemvalue="Application.Baek2477" />
         <item itemvalue="Application.Baek2309" />
-        <item itemvalue="Application.Baek2304" />
       </list>
     </recent_temporary>
   </component>
