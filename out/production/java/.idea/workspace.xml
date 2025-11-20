@@ -57,6 +57,7 @@
     &quot;Application.Baek2605.executor&quot;: &quot;Run&quot;,
     &quot;Application.Baek2628.executor&quot;: &quot;Run&quot;,
     &quot;Application.Baek2635.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baek2669.executor&quot;: &quot;Run&quot;,
     &quot;Application.Baek2798.executor&quot;: &quot;Run&quot;,
     &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
     &quot;Application.Swea1206.executor&quot;: &quot;Run&quot;,
@@ -82,9 +83,9 @@
     &quot;애플리케이션.Swea22979.executor&quot;: &quot;Debug&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Baek2669">
-    <configuration name="Baek2578" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.Silver.Baek2578" />
+  <component name="RunManager" selected="Application.Baek10157">
+    <configuration name="Baek10157" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.Silver.Baek10157" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -190,19 +191,19 @@
     <list>
       <item itemvalue="Application.Swea1208" />
       <item itemvalue="Application.Swea22979" />
+      <item itemvalue="Application.Baek10157" />
       <item itemvalue="Application.Baek2669" />
       <item itemvalue="Application.Baek2605" />
       <item itemvalue="Application.Baek2628" />
       <item itemvalue="Application.Baek2635" />
-      <item itemvalue="Application.Baek2578" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baek10157" />
         <item itemvalue="Application.Baek2669" />
         <item itemvalue="Application.Baek2635" />
         <item itemvalue="Application.Baek2628" />
         <item itemvalue="Application.Baek2605" />
-        <item itemvalue="Application.Baek2578" />
       </list>
     </recent_temporary>
   </component>
