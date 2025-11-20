@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="731d1777-c9d1-4aae-8192-267dff8ffdb0" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Baek10157.executor": "Run",
+    "Application.Baek10158.executor": "Run",
     "Application.Baek11399.executor": "Run",
     "Application.Baek1244.executor": "Run",
     "Application.Baek1592.executor": "Run",
@@ -85,7 +85,7 @@
     "애플리케이션.Swea22979.executor": "Debug"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Baek10157">
+  <component name="RunManager" selected="Application.Baek10158">
     <configuration name="Baek10157" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ.Silver.Baek10157" />
       <module name="java" />
@@ -99,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baek2605" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.Bronze.Baek2605" />
+    <configuration name="Baek10158" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.Silver.Baek10158" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOJ.Bronze.*" />
+          <option name="PATTERN" value="BOJ.Silver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,18 +194,18 @@
       <item itemvalue="Application.Swea1208" />
       <item itemvalue="Application.Swea22979" />
       <item itemvalue="Application.Baek10157" />
+      <item itemvalue="Application.Baek10158" />
       <item itemvalue="Application.Baek2669" />
-      <item itemvalue="Application.Baek2605" />
       <item itemvalue="Application.Baek2628" />
       <item itemvalue="Application.Baek2635" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baek10158" />
         <item itemvalue="Application.Baek10157" />
         <item itemvalue="Application.Baek2669" />
         <item itemvalue="Application.Baek2635" />
         <item itemvalue="Application.Baek2628" />
-        <item itemvalue="Application.Baek2605" />
       </list>
     </recent_temporary>
   </component>
